@@ -1,0 +1,29 @@
+ ⚠ Port 3000 is in use, using available port 3001 instead.
+   ▲ Next.js 15.3.9 (Turbopack)
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.1.42:3001
+
+ ✓ Starting...
+ ⚠ Invalid next.config.ts options detected: 
+ ⚠     Unrecognized key(s) in object: 'root' at "turbopack"
+ ⚠ See more info here: https://nextjs.org/docs/messages/invalid-next-config
+ ✓ Compiled middleware in 75ms
+ ✓ Ready in 579ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.4s
+ GET / 200 in 4118ms
+ ✓ Compiled /favicon.ico in 162ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 414ms
+ GET / 200 in 33ms
+ GET / 200 in 29ms
+ ✓ Compiled /api/chat in 248ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 4046ms
+ GET / 200 in 30ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 2035ms
+ GET / 200 in 28ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 2097ms
+ GET / 200 in 53ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 217ms
